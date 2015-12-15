@@ -20,7 +20,7 @@
 
     <groupId>com.stormpath.spring</groupId>
     <artifactId>mike-test</artifactId>
-    <version>1.0.RC6</version>
+    <version>1.0.RC7.4</version>
 
     <name>mike-test</name>
     <description>A simple Spring Boot Web MVC application with out-of-the-box login and self-service screens!</description>
